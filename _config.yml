@@ -15,5 +15,5 @@ author:
 
 # Custom vars
 version:          1.0.0
-github:           https://github.com/joshbuchea
-  repo:           https://github.com/joshbuchea/joshbuchea.github.io
+github:
+  repo:           https://github.com/poole/poole
