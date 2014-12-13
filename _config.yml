@@ -3,17 +3,17 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Josh Buchea
+tagline:          Mobile & Web Developer
+url:              http://joshbuchea.com
 paginate:         1
-baseurl:          /
+baseurl:          http://joshbuchea.github.io/
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Josh Buchea
+  url:            https://twitter.com/joshbuchea
+  email:          josh@buchea.com
 
 # Custom vars
 version:          1.0.0
-github:
-  repo:           https://github.com/poole/poole
+github:           https://github.com/joshbuchea
+  repo:           https://github.com/joshbuchea/joshbuchea.github.io
