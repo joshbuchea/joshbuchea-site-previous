@@ -12,6 +12,6 @@ title: Contact
     <input type="text" name="_gotcha" style="display:none" />
     <input type="text" name="name"> Name<br>
     <input type="email" name="_replyto"> Email<br>
-    <textarea name="message" rows="5"></textarea>
+    <textarea rows="5" name="message"></textarea>
     <input type="submit" value="Send">
 </form>
