@@ -9,6 +9,7 @@ title: Contact
 
 <form action="//formspree.io/hi@joshbuchea.com">
     <input type="hidden" name="_subject" value="joshbuchea.github.io contact form" />
+    <input type="text" name="_gotcha" style="display:none" />
     <input type="text" name="name"> Name<br>
     <input type="email" name="_replyto"> Email<br>
     <input type="submit" value="Send">
