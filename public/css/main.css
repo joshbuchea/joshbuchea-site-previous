@@ -3,8 +3,22 @@ html {
 }
 
 .masthead .masthead-title,
-.masthead nav {
+.masthead .nav {
   text-align: center;
+}
+
+.nav {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+.nav li {
+  display: inline-block;
+}
+
+.nav li + li {
+  margin-left: .5rem;
 }
 
 .masthead nav {
@@ -21,7 +35,7 @@ html {
   .masthead-title {
     float: left;
   }
-  .masthead nav {
+  .masthead .nav {
     text-align: right;
   }
 }
