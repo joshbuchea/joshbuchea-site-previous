@@ -8,10 +8,15 @@
 .masthead nav {
   margin: 10px 0;
   padding: 10px 0;
-  border-top: 1px solid #eee;
   border-bottom: 1px solid #eee;
 }
 
 .masthead nav a {
   padding: 0 0.5em;
+}
+
+@media (min-width: 34em) {
+  .masthead-title {
+    float: left;
+  }
 }
