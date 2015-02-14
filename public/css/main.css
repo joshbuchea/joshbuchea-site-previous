@@ -76,6 +76,11 @@ a:hover, a:focus {
   text-decoration: none;
 }
 
+.post-date {
+  margin: -.5rem 0 .5rem;
+  color: #ccc;
+}
+
 @media (min-width: 34em) {
   .masthead-title {
     float: left;
