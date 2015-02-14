@@ -3,8 +3,6 @@ layout: page
 title: Products
 ---
 
-##Apps
-
 ### GFree - Gluten Free Ingredients
 
 A simple gluten free ingredients reference.
