@@ -8,6 +8,12 @@ body {
   color: #555;
 }
 
+.container {
+  max-width: 32rem;
+  margin: 0 auto;
+  padding: 0;
+}
+
 .masthead .masthead-title,
 .masthead .nav {
   text-align: center;
