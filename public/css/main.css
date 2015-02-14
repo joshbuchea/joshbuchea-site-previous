@@ -1,4 +1,6 @@
-/* Custom CSS */
+html {
+  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+}
 
 .masthead .masthead-title,
 .masthead nav {
