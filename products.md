@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work
+title: Products
 ---
 
 ##Apps
@@ -15,4 +15,4 @@ A simple salary and wage calculator.
 
 ### Auer of Power Soundboard
 
-Blah...
+A soundboard I made for musician and podcaster Jason Auer (AKA the Auer of Power).
