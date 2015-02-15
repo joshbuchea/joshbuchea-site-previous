@@ -6,7 +6,7 @@ relative_permalinks: true
 title:            Josh Buchea
 tagline:          Mobile & Web Developer
 url:              http://joshbuchea.com
-paginate:         1
+paginate:         5
 baseurl:          http://joshbuchea.github.io/
 author:
   name:           Josh Buchea
