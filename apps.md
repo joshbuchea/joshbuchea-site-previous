@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Products
+title: Apps
 ---
 
 ### GFree - Gluten Free Ingredients
