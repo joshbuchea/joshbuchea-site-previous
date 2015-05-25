@@ -3,9 +3,7 @@ layout: page
 title: Contact
 ---
 
-<p class="message">
-    Please use the form below to contact me.
-</p>
+Please use the form below to contact me.
 
 <form action="//formspree.io/hello@joshbuchea.com" method="post">
     <input type="hidden" name="_subject" value="joshbuchea.com contact form" />
