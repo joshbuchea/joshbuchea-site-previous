@@ -2,6 +2,7 @@
 layout: post
 title: Cordova Emulate: Target a Specific Device
 ---
+
 Target a specific device:
 
 ````
