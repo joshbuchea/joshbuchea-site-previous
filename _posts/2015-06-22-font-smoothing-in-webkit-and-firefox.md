@@ -7,7 +7,7 @@ If fonts on your website appear to be rendering "thicker" in Webkit or Firefox t
 
 ```
 body {
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 ```
