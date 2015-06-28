@@ -3,6 +3,8 @@ layout: page
 title: Apps
 ---
 
+<img src="/public/img/app-icon-crunch_512@2x.png" width="192" height="auto">
+
 ### Crunch - Salary & Wage Calculator
 
 A simple salary and wage calculator.
