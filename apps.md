@@ -15,11 +15,12 @@ A simple salary and wage calculator.
 
 A simple gluten free ingredients reference.
 
-* [iOS](https://itunes.apple.com/app/id952035870?mt=8)
-* [Android](https://play.google.com/store/apps/details?id=com.joshbuchea.gfreeing) 
+[<img src="/public/img/app-store-badge-apple_195x60@2x.png" width="195" height="60">](https://itunes.apple.com/app/id952035870?mt=8)
+
+[<img src="/public/img/app-store-badge-google_195x60@2x.png" width="195" height="60">](https://play.google.com/store/apps/details?id=com.joshbuchea.gfreeing) 
 
 ### Auer of Power Soundboard
 
 A soundboard I made for musician and podcaster Jason Auer (AKA the Auer of Power).
 
-* [iOS](https://itunes.apple.com/app/auer-of-power-soundboard/id572835381)
+[<img src="/public/img/app-store-badge-apple_195x60@2x.png" width="195" height="60">](https://itunes.apple.com/app/auer-of-power-soundboard/id572835381)
