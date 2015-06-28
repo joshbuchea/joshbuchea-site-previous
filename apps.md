@@ -7,8 +7,8 @@ title: Apps
 
 A simple salary and wage calculator.
 
-![iOS](/public/img/app-store-badge-apple_195x60@2x.png "iOS")
-![Android](/public/img/app-store-badge-google_195x60@2x.png "Android")
+![iOS](/public/img/app-store-badge-apple_195x60@2x.png "iOS" =195)
+![Android](/public/img/app-store-badge-google_195x60@2x.png "Android" =195)
 
 * [iOS](https://itunes.apple.com/app/id912209541?mt=8)
 * [Android](https://play.google.com/store/apps/details?id=com.joshbuchea.crunch) 
