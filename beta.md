@@ -3,6 +3,4 @@ layout: default-bootstrap
 title: Home Beta
 ---
 
-<div class="">
-  <p>This is a test...</p>
-</div>
+This is a test...
