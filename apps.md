@@ -14,6 +14,8 @@ A simple salary and wage calculator.
 [<img src="/public/img/app-store-badge-google_195x60@2x.png" width="195" height="60">](https://play.google.com/store/apps/details?id=com.joshbuchea.crunch) 
 <br>
 
+<img src="/public/img/app-icon-gfree_512@2x.png" width="192" height="auto">
+
 ### GFree - Gluten Free Ingredients
 
 A simple gluten free ingredients reference.
@@ -23,6 +25,8 @@ A simple gluten free ingredients reference.
 [<img src="/public/img/app-store-badge-google_195x60@2x.png" width="195" height="60">](https://play.google.com/store/apps/details?id=com.joshbuchea.gfreeing) 
 
 <br>
+
+<img src="/public/img/app-icon-aopsb_512@2x.png" width="192" height="auto">
 
 ### Auer of Power Soundboard
 
