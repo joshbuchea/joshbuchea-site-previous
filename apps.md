@@ -7,10 +7,13 @@ title: Apps
 
 A simple salary and wage calculator.
 
-![iOS](/public/img/app-store-badge-apple_195x60@2x.png =195x60)
-![Android](/public/img/app-store-badge-google_195x60@2x.png =195x60)
+![iOS]( "iOS")
+![Android]( "Android")
 
-* [iOS](https://itunes.apple.com/app/id912209541?mt=8)
+<img src="/public/img/app-store-badge-apple_195x60@2x.png" width="195" height="60">
+<img src="/public/img/app-store-badge-google_195x60@2x.png" width="195" height="60">
+
+* [<img src="/public/img/app-store-badge-apple_195x60@2x.png" width="195" height="60">](https://itunes.apple.com/app/id912209541?mt=8)
 * [Android](https://play.google.com/store/apps/details?id=com.joshbuchea.crunch) 
 
 ### GFree - Gluten Free Ingredients
