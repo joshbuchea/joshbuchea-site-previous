@@ -5,7 +5,7 @@ title: Apps
 
 <img src="/public/img/app-icon-crunch_512@2x.png" width="192" height="auto">
 
-### Crunch - Salary & Wage Calculator
+### Crunch
 
 A simple salary and wage calculator.
 
@@ -16,7 +16,7 @@ A simple salary and wage calculator.
 
 <img src="/public/img/app-icon-gfree_512@2x.png" width="192" height="auto">
 
-### GFree - Gluten Free Ingredients
+### GFree Ingredients
 
 A simple gluten free ingredients reference.
 
@@ -28,7 +28,7 @@ A simple gluten free ingredients reference.
 
 <img src="/public/img/app-icon-aopsb_512@2x.png" width="192" height="auto">
 
-### Auer of Power Soundboard
+### AOP Soundboard
 
 A soundboard I made for musician and podcaster Jason Auer (AKA the Auer of Power).
 
