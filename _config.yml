@@ -1,5 +1,5 @@
 # Permalinks
-permalink:        none
+permalink:        pretty
 relative_permalinks: true
 
 # Setup
