@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+<img src="/public/img/me-avatar.jpg" width="200" height="auto">
+
 I'm Josh Buchea. I'm a web & mobile software developer based in Portland, Oregon.
 
 I've developed hybrid mobile applications for iOS & Android since 2011, and I've been developing for the web for over 17 years. I'm passionate about clean code and delivering great user experiences.
