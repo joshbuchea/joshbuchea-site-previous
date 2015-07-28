@@ -70,13 +70,13 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: 1px solid #eee;
 }
 
-.masthead nav a {
+.masthead .nav a {
   padding: 0 0.5em;
   color: #555;
 }
 
-.masthead nav a:hover,
-.masthead nav a:focus {
+.masthead .nav a:hover,
+.masthead .nav a:focus {
   color: #268bd2;
 }
 
