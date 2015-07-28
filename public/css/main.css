@@ -85,11 +85,11 @@ code {
   color: #ccc;
 }
 
-@media (min-width: 34em) {
+/*@media (min-width: 34em) {
   .masthead-title {
     float: left;
   }
   .masthead .nav {
     text-align: right;
   }
-}
+}*/
