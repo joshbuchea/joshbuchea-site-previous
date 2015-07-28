@@ -72,6 +72,12 @@ h1, h2, h3, h4, h5, h6 {
 
 .masthead nav a {
   padding: 0 0.5em;
+  color: #555;
+}
+
+.masthead nav a:hover,
+.masthead nav a:hover {
+  color: #268bd2;
 }
 
 a:hover, a:focus {
