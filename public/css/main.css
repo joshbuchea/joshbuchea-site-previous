@@ -64,7 +64,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: .5rem;
 }
 
-.masthead nav {
+.masthead .nav {
   margin: 10px 0;
   padding: 10px 0;
   border-bottom: 1px solid #eee;
