@@ -3,8 +3,6 @@ layout: post
 title: Convert Plist to JSON
 ---
 
-Convert Plist to JSON
-
 As long as you have Xcode installed, you can simply do:
 
 {% highlight bash %}
