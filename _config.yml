@@ -8,12 +8,14 @@ tagline:          Web & Mobile Developer
 url:              http://joshbuchea.com
 paginate:         5
 baseurl:          http://joshbuchea.com/
+
+#About/contact
 author:
   name:           Josh Buchea
   url:            https://twitter.com/joshbuchea
-  email:          josh@buchea.com
+  email:          hello@joshbuchea.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/joshbuchea/joshbuchea.github.io
